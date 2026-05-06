@@ -1,0 +1,32 @@
+[
+  {
+    "_id": "69f70e033154f2fc361c45e0",
+    "patient": "69f6cc59904548db9693e76d",
+    "doctor": "69f6f0680e9adb3a93638e1a",
+    "appointment": "69f70e033154f2fc361c45d8",
+    "amount": 500,
+    "utrId": "123456789123",
+    "screenshot": "/uploads/1777798659100-456473652.png",
+    "method": "PhonePe",
+    "status": "Pending",
+    "adminNote": "",
+    "createdAt": "2026-05-03T08:57:39.114Z",
+    "updatedAt": "2026-05-03T08:57:39.114Z",
+    "__v": 0
+  },
+  {
+    "_id": "69f70ebc3154f2fc361c4646",
+    "patient": "69f6cc59904548db9693e76d",
+    "doctor": "69f70e833154f2fc361c461d",
+    "appointment": "69f70ebb3154f2fc361c463e",
+    "amount": 500,
+    "utrId": "12345678912",
+    "screenshot": "/uploads/1777798844019-612094635.png",
+    "method": "PhonePe",
+    "status": "Pending",
+    "adminNote": "",
+    "createdAt": "2026-05-03T09:00:44.030Z",
+    "updatedAt": "2026-05-03T09:00:44.030Z",
+    "__v": 0
+  }
+]
